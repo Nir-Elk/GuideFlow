@@ -1,0 +1,17 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "name": "Personal Projects"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "name": "Science Projects"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "name": "Commercial Projects"
+  }
+]
